@@ -1,22 +1,20 @@
-# Activist Toolkit Sample Project
+# Activist Toolkit
 
 This is a place for you to start building your activist toolkit!
 
 
-### Project Requirements
-Your project should:
-- Build a multipage website using HTML, CSS, and JavaScript.
-- Implement at least one of the key features from the menu. 
-- Customize the look and feel of your site through colors, images, and fonts using CSS.
-- Include alt text for every image in your website.
-- Use code comments to describe your code.
+### Project 
+The project has:
+- A multipage website using HTML, CSS, and JavaScript.
+- Customized look and feel of the site through colors, images, and fonts using CSS.
+- Alt text for every image on the website.
+- Code comments to describe the code.
 
 
 ### Extensions
-You can extend your project further by:
-- Refactor your code.
+You can extend the project further by:
+- Refactor the code.
 - Add a nice-to-have feature.
-- Port to GitHub pages.
 - Add another key feature.
 
 
@@ -28,7 +26,7 @@ home image: esamuel26 on Pixabay
 
 ### ← README.md
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
+That's this file. 
 
 ### ← index.html
 
