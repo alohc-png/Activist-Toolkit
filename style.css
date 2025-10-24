@@ -1,0 +1,159 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #FFFFFF; 
+}
+
+/* STYLE TEXT */
+
+header {
+  background-color: #1D2F6F;
+}
+
+h1 {
+  color: #1D2F6F;
+  font-weight: 500;
+  font-family: "freight-text-pro", "Freight Text", Georgia; serif;
+  line-height: 1.25;
+  font-size: 35px;
+  text-align: center;
+   margin-top: 1em;
+}
+
+h2 {
+  color: #1D2F6F;
+  font-weight: 500;
+  font-family: "freight-text-pro", "Freight Text", Georgia; serif;
+  line-height: 1.25;
+   font-size: 28px;
+  text-align: center;
+   margin-bottom: 1em;
+}
+
+p {
+  color: #000000;
+  font-family: "freight-text-pro", "Freight Text", Georgia, serif;
+  font-size: 20px;
+  line-height: 1.3em;
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+h3 {
+  font-size: 28px;
+  color: #ffffff;
+ font-weight: 550;
+  text-align: center;
+}
+
+.ptwo { /* text under the button in the div */
+  color: #ffffff;
+  margin-top: 0;
+}
+
+#fact {
+  font-size: 28px;
+  color: #0b513e;
+   font-weight: 550;
+  text-align: center;
+}
+
+.tah { /* take action page header */
+  color: #0b513e;
+  text-align: left;
+  margin-left: 15%;
+  margin-top: 2em;
+  font-size: 26px;
+}
+
+.tat { /* take action page text examples */
+  font-size: 18px;
+  margin-bottom: 2em;
+}
+
+/* STYLE IMAGES */
+
+img {
+  max-width: 85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+/* STYLE NAV BAR */
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  text-align: right;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "adelle-sans", "Adelle Sans", "Proxima Nova", "Helvetica Neue", Helvetica, sans-serif;
+  padding: 2.5em;
+}
+
+li a:hover {
+  background-color: #0B513E;
+}
+
+/* STYLE BUTTONS */
+
+button {
+  color: #0b513e; 
+  font-size: 18px;
+  padding: 14px 25px;
+  cursor: pointer;
+   background-color: #ffffff;
+  text-align: center;
+  border: none;
+  border-radius: 12px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+button:hover {background-color: #c9c9c9;}
+
+/* dividers */
+
+.divider { /* line division in home page */
+  font-size: 28px;
+   color: #0b513e;
+   font-weight: 550;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding: 3px;
+  margin: 5px;
+  background-color: #0b513e;
+}
+
+div { /* button box? */
+  background: #0b513e;
+  border-radius: 10px;
+  border-style: none;
+  padding: 15px;
+  margin-top: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: "freight-text-pro", "Freight Text", Georgia, serif;
+  text-align: center;
+}
